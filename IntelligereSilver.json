@@ -4,5 +4,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.1",
         "current_date": "11 Dec 23 16:28:44"
+    },
+    {
+        "uuid": "manu-1234",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1",
+        "current_date": "11 Dec 23 18:22:30"
     }
 ]
