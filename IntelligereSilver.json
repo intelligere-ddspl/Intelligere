@@ -28,5 +28,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.2",
         "installation_date": "22 Dec 23 15:51:59"
+    },
+    {
+        "uuid": "rvgr",
+        "port": "9000",
+        "version": "IntelligereSilver_3.2",
+        "installation_date": "22 Dec 23 15:53:43"
     }
 ]
