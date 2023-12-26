@@ -214,5 +214,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.3",
         "installation_date": "26 Dec 23 17:45:09"
+    },
+    {
+        "uuid": "trgfv",
+        "port": "9000",
+        "version": "IntelligereSilver_3.3",
+        "installation_date": "26 Dec 23 17:46:41"
     }
 ]
