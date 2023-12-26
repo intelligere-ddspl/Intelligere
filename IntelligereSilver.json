@@ -172,5 +172,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.3",
         "installation_date": "26 Dec 23 14:43:34"
+    },
+    {
+        "uuid": "szqaz",
+        "port": "9000",
+        "version": "IntelligereSilver_3.3",
+        "installation_date": "26 Dec 23 14:49:12"
     }
 ]
