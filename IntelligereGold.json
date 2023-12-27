@@ -1,8 +1,14 @@
 [
-   {
+    {
         "uuid": "testing-uuid-1",
         "port": "9000",
         "version": "IntelligereGold_3.1",
         "current_date": "11 Dec 23 16:28:44"
+    },
+    {
+        "uuid": "gold",
+        "port": "9000",
+        "version": "IntelligereGold_3.3",
+        "installation_date": "27 Dec 23 18:09:52"
     }
 ]
