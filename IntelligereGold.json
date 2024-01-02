@@ -40,5 +40,11 @@
         "port": "9000",
         "version": "IntelligereGold_3.3",
         "installation_date": "02 Jan 24 18:59:17"
+    },
+    {
+        "uuid": "eb2270c8-f1fe-49b5-9a98-ee041a4989e9",
+        "port": "9000",
+        "version": "IntelligereGold_3.3",
+        "installation_date": "02 Jan 24 19:12:47"
     }
 ]
