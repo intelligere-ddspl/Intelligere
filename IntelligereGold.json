@@ -130,5 +130,11 @@
         "port": "9000",
         "version": "IntelligereGold_3.3",
         "installation_date": "18 Jan 24 15:47:42"
+    },
+    {
+        "uuid": "1234-manu-5678",
+        "port": "9000",
+        "version": "IntelligereGold_3.3",
+        "installation_date": "23 Jan 24 14:08:31"
     }
 ]
