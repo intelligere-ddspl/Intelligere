@@ -106,5 +106,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.3",
         "installation_date": "05 Feb 24 15:12:06"
+    },
+    {
+        "uuid": "9315f7bd-699e-46f6-8d61-3e8e87591f61",
+        "port": "9000",
+        "version": "IntelligereSilver_3.3",
+        "installation_date": "08 Feb 24 15:17:59"
     }
 ]
