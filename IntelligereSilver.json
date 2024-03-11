@@ -178,5 +178,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.4",
         "installation_date": "08 Mar 24 17:56:20"
+    },
+    {
+        "uuid": "12345-ddspl",
+        "port": "9000",
+        "version": "IntelligereSilver_3.3",
+        "installation_date": "11 Mar 24 17:00:18"
     }
 ]
