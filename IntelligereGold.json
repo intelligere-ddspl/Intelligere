@@ -3,31 +3,7 @@
         "uuid": "0785e4f7-fa2d-4ae3-8486-db01941aa1a3",
         "port": "9000",
         "version": "IntelligereGold_3.3",
-        "installation_date": "28 Dec 23 10:18:24"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "02 Jan 24 16:34:21"
-    },
-    {
-        "uuid": "0785e4f7-fa2d-4ae3-8486-db01941aa1a3",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "02 Jan 24 17:15:41"
-    },
-    {
-        "uuid": "0785e4f7-fa2d-4ae3-8486-db01941aa1a3",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
         "installation_date": "02 Jan 24 18:24:19"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "02 Jan 24 18:59:17"
     },
     {
         "uuid": "eb2270c8-f1fe-49b5-9a98-ee041a4989e9",
@@ -39,55 +15,7 @@
         "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
         "port": "9000",
         "version": "IntelligereGold_3.3",
-        "installation_date": "03 Jan 24 17:59:26"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "03 Jan 24 18:05:35"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "03 Jan 24 18:09:06"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "03 Jan 24 18:12:49"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "03 Jan 24 18:36:59"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
         "installation_date": "03 Jan 24 18:41:08"
-    },
-    {
-        "uuid": "6570e7bd-7dc6-4978-a593-142364ef3e5e",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "05 Jan 24 14:44:22"
-    },
-    {
-        "uuid": "6570e7bd-7dc6-4978-a593-142364ef3e5e",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "05 Jan 24 15:08:48"
-    },
-    {
-        "uuid": "6570e7bd-7dc6-4978-a593-142364ef3e5e",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "05 Jan 24 15:41:27"
     },
     {
         "uuid": "6570e7bd-7dc6-4978-a593-142364ef3e5e",
@@ -105,12 +33,6 @@
         "uuid": "fe879fb8-c319-431b-9fad-963705a4100d",
         "port": "9000",
         "version": "IntelligereGold_3.3",
-        "installation_date": "09 Jan 24 18:29:30"
-    },
-    {
-        "uuid": "fe879fb8-c319-431b-9fad-963705a4100d",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
         "installation_date": "12 Jan 24 17:20:52"
     },
     {
@@ -118,36 +40,6 @@
         "port": "9000",
         "version": "IntelligereGold_3.3",
         "installation_date": "18 Jan 24 15:47:42"
-    },
-    {
-        "uuid": "1234-manu-5678",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "23 Jan 24 14:08:31"
-    },
-    {
-        "uuid": "1234",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "23 Jan 24 14:13:14"
-    },
-    {
-        "uuid": "1234567890",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "23 Jan 24 14:19:53"
-    },
-    {
-        "uuid": "222",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "23 Jan 24 15:36:52"
-    },
-    {
-        "uuid": "1234",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "24 Jan 24 10:18:29"
     },
     {
         "uuid": "5596d6cb-a3b0-4f34-9e53-55f06dc0bc34",
@@ -163,12 +55,6 @@
     },
     {
         "uuid": "0a92cd3e-89fd-4d80-a17e-f93959603a79",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "10 Feb 24 17:34:47"
-    },
-    {
-        "uuid": "0a92cd3e-89fd-4d80-a17e-f93959603a79",
         "port": "9001",
         "version": "IntelligereGold_3.3",
         "installation_date": "10 Feb 24 17:39:10"
@@ -178,30 +64,6 @@
         "port": "9000",
         "version": "IntelligereGold_3.3",
         "installation_date": "23 Feb 24 12:53:08"
-    },
-    {
-        "uuid": "8e9a46e8-de0c-4838-a537-adc741ec31fe",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "27 Feb 24 15:56:24"
-    },
-    {
-        "uuid": "8e9a46e8-de0c-4838-a537-adc741ec31fe",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "27 Feb 24 16:11:55"
-    },
-    {
-        "uuid": "8e9a46e8-de0c-4838-a537-adc741ec31fe",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "27 Feb 24 16:12:24"
-    },
-    {
-        "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
-        "port": "9000",
-        "version": "IntelligereGold_3.3",
-        "installation_date": "29 Feb 24 11:27:56"
     },
     {
         "uuid": "197f6d20-241e-40db-b6fb-a4af66156e1f",
