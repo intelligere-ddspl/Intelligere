@@ -1,1 +1,1 @@
-service_name = IntelligereGold_3.5.exe
+service_name = IntelligereGold_3.5
