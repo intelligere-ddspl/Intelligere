@@ -1,1 +1,1 @@
-
+Gold_exe_name = IntelligereGold_3.5.exe
