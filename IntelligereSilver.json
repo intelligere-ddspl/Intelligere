@@ -328,5 +328,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.5",
         "installation_date": "13 May 24 17:21:08"
+    },
+    {
+        "uuid": "dsc",
+        "port": "9000",
+        "version": "IntelligereSilver_3.5",
+        "installation_date": "13 May 24 17:29:39"
     }
 ]
