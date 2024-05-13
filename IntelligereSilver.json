@@ -418,5 +418,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.5",
         "installation_date": "13 May 24 17:49:27"
+    },
+    {
+        "uuid": "rewd",
+        "port": "9000",
+        "version": "IntelligereSilver_3.5",
+        "installation_date": "13 May 24 17:50:08"
     }
 ]
