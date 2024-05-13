@@ -406,5 +406,11 @@
         "port": "9000",
         "version": "IntelligereSilver_3.5",
         "installation_date": "13 May 24 17:46:26"
+    },
+    {
+        "uuid": "uyth",
+        "port": "9000",
+        "version": "IntelligereSilver_3.5",
+        "installation_date": "13 May 24 17:48:17"
     }
 ]
