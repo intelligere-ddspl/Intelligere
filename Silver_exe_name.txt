@@ -1,1 +1,1 @@
-Silver_exe_name = IntelligereSilver_3.5.exe
+Silver_exe_name = IntelligereSilver_3.6.exe
